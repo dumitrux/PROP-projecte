@@ -1,0 +1,10 @@
+Esta carpeta contiene los packages con los .java correspondientes:
+
+Aixo ve a ser la carpeta src del projecte complert.
+
+domini: capa de domini
+gestioDades: capa de persitencia de les dades amb els fitxers
+gui: pakage de presentació
+JunitTest: test JUnit (que ens vem deixar a l'entrega passada)
+lib: llibreries JUnit
+

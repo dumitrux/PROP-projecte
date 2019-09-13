@@ -1,0 +1,22 @@
+1. A la carpeta "prop-escacs" s'hi troba el projecte complert. Conte subcarpetes amb els fitxers d'execucio.
+
+Asset: imatges
+Src: codi font
+Files: fitxers de persistència
+out: .class
+
+Aquesta carpeta esta pensada per obrir el projecte amb una IDE com Intellij.
+
+2. Carpeta "class" conté tots els executables .class per tal d'executar mitjançant el terminal.
+
+2.1 Per tal d'aconseguir-ho cal fer:
+	2.1.1 -> cd class
+	2.1.2 -> java Joc
+
+
+ANNEX: IMPORTANT:
+	1-> fitxer d'usuaris {class||Prop-escacs}/files/usuaris.txt
+	2-> fitxer problemes {class||Prop-escacs}/files/problemes.txt
+	3-> fitxer estadistiques {class||Prop-escacs}/files/estadistiques.txt
+	4-> fitxer max_id_problema (ha d'existir) -> index.txt
+

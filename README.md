@@ -1,3 +1,3 @@
 # PROP-projecte
 
-Cooming soon...
+Escacs

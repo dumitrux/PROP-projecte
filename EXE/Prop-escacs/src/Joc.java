@@ -1,0 +1,12 @@
+import gui.*;
+
+import javax.naming.ldap.Control;
+
+public class Joc {
+
+
+    public static void main(String[] args) {
+        ControladorPresentacio App = new ControladorPresentacio();
+
+    }
+}
